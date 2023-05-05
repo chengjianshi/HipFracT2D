@@ -1,0 +1,4 @@
+Train ROC-AUC score: 0.84,
+Test ROC-AUC score: 0.84,
+loss_func: modified_huber,
+    
