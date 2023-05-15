@@ -1,0 +1,10 @@
+{
+    "learning_rate": 0.15,
+    "max_depth": 8,
+    "subsample": 0.7,
+    "colsample_bytree": 0.7,
+    "n_estimators": 1000,
+    "min_child_weight": 1,
+    "gamma": 0,
+    "tree_method": "approx",
+}
