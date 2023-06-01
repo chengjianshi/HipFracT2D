@@ -1,1 +1,0 @@
-{"train_auc": 0.8719906297915034, "test_auc": 0.8532581551646582, "train_acc": 0.8682318657875479, "test_acc": 0.8674606187506041, "best params": {"learning_rate": 0.01, "max_depth": 8, "subsample": 0.8, "colsample_bytree": 0.7, "n_estimators": 1500, "min_child_weight": 1, "gamma": 2, "alpha": 2, "lambda": 2}}
