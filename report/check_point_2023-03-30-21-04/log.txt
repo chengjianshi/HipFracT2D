@@ -1,4 +1,0 @@
-loss_func: log_loss,
-alpha: 0.0005,
-Train ROC-AUC score: 0.78054,
-Test ROC-AUC score: 0.77915,

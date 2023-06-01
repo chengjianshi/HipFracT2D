@@ -1,5 +1,0 @@
-Train ROC-AUC score: 0.78,
-Test ROC-AUC score: 0.78,
-loss_func: perceptron,
-
-    
