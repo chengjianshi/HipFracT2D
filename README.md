@@ -6,8 +6,8 @@ The train script include two types of model, stochastic-gradient-descent (sgd) l
 
 The xgboost model under model directory is currently the best well tunned model shows state-of-the-art performance. 
 
-![alt text](https://github.com/chengjianshi/HipFracT2D/figure/best_mdoel_train_cm_roc.png)
-![alt text](https://github.com/chengjianshi/HipFracT2D/figure/best_model_test_cm_roc.png)
+![alt text](https://github.com/chengjianshi/HipFracT2D/tree/main/figure/best_mdoel_train_cm_roc.png "train confusion matrix")
+![alt text](https://github.com/chengjianshi/HipFracT2D/tree/main/figure/best_model_test_cm_roc.png "test confusion matrix")
 
 #### environment setup 
 
