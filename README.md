@@ -4,6 +4,11 @@ The project is intend to build binary classifier on Hip Fracture outcome from pa
 
 The train script include two types of model, stochastic-gradient-descent (sgd) linear module and gradient boosting (xgb) module. Both samples are built with tunable hyper-parameters via setup file under train directory. 
 
+The xgboost model under model directory is currently the best well tunned model shows state-of-the-art performance. 
+
+![alt text](https://github.com/chengjianshi/HipFracT2D/figure/best_mdoel_train_cm_roc.png)
+![alt text](https://github.com/chengjianshi/HipFracT2D/figure/best_model_test_cm_roc.png)
+
 #### environment setup 
 
 ```bash
@@ -23,7 +28,7 @@ Infer script
 
 ```bash
 
-python infer.py data/ 
+python infer.py model/ data/ 
 
 ```
 
